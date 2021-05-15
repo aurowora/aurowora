@@ -1,6 +1,6 @@
 ### Hallo! 👋
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K34MSYX)
+
 
 - 🔭 I’m currently working on GFLBans for gflclan.com
 - 🥧 I am a support represenative for Toontown Rewritten
@@ -9,3 +9,5 @@
 - 📫 You can reach me on Discord at Aurora#0005
 - ![flag](flag20.png)
  I use she / her and they / them pronouns
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K34MSYX)
